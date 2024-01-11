@@ -59,45 +59,45 @@ You can find both of these below (scheduling is subject to small changes through
 
 #### Unix
 
-1. **Week 1**: _Hello Worlding, Setting Up, Intro to Shell Scripting_
+1. **Week 1**: _Setting Up, Unix Intro, `gcc` Intro, Hello Worlding_
     - [**Videos**]()
-    - [**Notes**]()
-2. **Week 2**: _Unix/C History, Unix Intro, `gcc` Usage_
-    - [**Videos**]()
-    - [**Notes**]()
+    - [**Notes**](lectures/week-1/)
+2. **Week 2**: _`gcc` Usage, Unix/C History, Intro to Shell Scripting_
+    <!-- - [**Videos**]()
+    - [**Notes**]() -->
 3. **Week 3**: _Basic Commands, Manual Pages, Standard I/O, Command Piping_
-    - [**Videos**]()
-    - [**Notes**]()
+    <!-- - [**Videos**]()
+    - [**Notes**]() -->
 4. **Week 4**: _File Systems, File Names, Directories, Permissions, Inodes_
-    - [**Videos**]()
-    - [**Notes**]()
+    <!-- - [**Videos**]()
+    - [**Notes**]() -->
 5. **Week 5**: _Shells, Environments, Shell Programming I_
-    - [**Videos**]()
-    - [**Notes**]()
+    <!-- - [**Videos**]()
+    - [**Notes**]() -->
 6. **Week 6**: _Filters, `grep`, `egrep`, Regular Expressions, `sed`, Shell Programming II_
-    - [**Videos**]()
-    - [**Notes**]()
+    <!-- - [**Videos**]()
+    - [**Notes**]() -->
 7. **Week 7**: _Midterm 1_
 
 #### C Language
 8. **Week 8**: _Introduction to C, `char`, Strings, `int`, `float`, Standard Library_
-    - [**Videos**]()
-    - [**Notes**]()
+    <!-- - [**Videos**]()
+    - [**Notes**]() -->
 9. **Week 9**: _Operators, Assignments, Loops, Conditionals_
-    - [**Videos**]()
-    - [**Notes**]()
+    <!-- - [**Videos**]()
+    - [**Notes**]() -->
 10. **Week 10**: _Functions, Parameter Passing, Pointer_
-    - [**Videos**]()
-    - [**Notes**]()
+    <!-- - [**Videos**]()
+    - [**Notes**]() -->
 11. **Week 11**: _`struct`, `enum`, Arrays, Array/Pointer Duality_
-    - [**Videos**]()
-    - [**Notes**]()
+    <!-- - [**Videos**]()
+    - [**Notes**]() -->
 12. **Week 12**: _Dynamic Storage, `malloc`, `calloc`, `free`, Memory Leaks_
-    - [**Videos**]()
-    - [**Notes**]()
+    <!-- - [**Videos**]()
+    - [**Notes**]() -->
 13. **Week 13**: _External References, Linkage Editing, Static Variables_
-    - [**Videos**]()
-    - [**Notes**]()
+    <!-- - [**Videos**]()
+    - [**Notes**]() -->
 14. **Week 14**: _Final Exam_
 
 While this material will mostly be managed here on GitHub, it will also be appropriately linked on [**Classes**](), where your grades will also be posted. Speaking of...

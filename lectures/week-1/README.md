@@ -20,7 +20,7 @@
 
 ### Hello, Professor!
 
-Hey, my name is Sebastián Romero Cruz, and I will be your instructor for this semester's **Fundamentals of Unix and C Programming** class. It's a pleasure having you all here with me, whenever it is that you are watching this. If you are reading these notes, you'll know that I spent a good chunk of time talking about the syllabus, so please refer to that and to its respective [**video**]().
+Hey, my name is Sebastián Romero Cruz, and I will be your instructor for this semester's **Fundamentals of Unix and C Programming** class. It's a pleasure having you all here with me, whenever it is that you are watching this. If you are reading these notes, you'll know that I spent a good chunk of time talking about the syllabus, so please refer to that and to its respective [**video**](https://youtu.be/LcTDsHT8M-Q).
 
 There's nothing too much that I want to say about myself that concerns this course too much. Here's some useless data about me, in case you're interested:
 
@@ -31,7 +31,7 @@ There's nothing too much that I want to say about myself that concerns this cour
 
 Alright, with that out of the way, let's start off simple this week–nothing too crazy.
 
-### A Quick (But Completely Essential) Note For Windows-Only Users
+### [**A Quick (But Completely Essential) Note For Windows-Only Users**](https://youtu.be/dEk4XLV_9II)
 
 As this class half about getting familiar with Unix-based operating systems, you will need to find a way to run one. MacOS and Linux are both Unix-based, so they're good to go, but as Windows isn't, we need to find options. Here's what I recommend:
 
@@ -44,9 +44,9 @@ As this class half about getting familiar with Unix-based operating systems, you
 
 ### Hello, Unix & C!
 
-We actually make a deep dive in the C programming language until the second half of the semester, but I think writing the canonical `Hello, World!` program in it would be a good to get our feet wet in how both the language looks and how Unix-based OSs work.
+We don't actually make a deep dive in the C programming language until the second half of the semester, but I think writing the canonical `Hello, World!` program in it would be a good to get our feet wet in how both the language looks and how Unix-based OSs work.
 
-#### The Terminal
+#### [**The Terminal**](https://youtu.be/R6ADzC7lrO4)
 
 Generally speaking, most users of modern computers interact with software through a graphic user interface (GUI). This means that instead of having to literally instruct your software and/or hardware to do something, you have more intuitive ways of doing so like clicking on buttons with your mouse. For example, if I wanted create a simple Python file on my computer using VSCode and run it, I would do something like the following:
 
@@ -80,7 +80,7 @@ To give you an idea of how important this is, consider the fact that Apple produ
 
 What's important to now realise is that your desktop folder is actually _a sub-folder of your root folder_. This places it higher in the hierarchy of "importance," in a way. Your computer can _technically_ work without a Desktop folder, but _definitely_ can't without a root folder.
 
-#### Creating a File In Our Desktop
+#### [**Creating a File In Our Desktop**](https://youtu.be/6_z0hftaMug)
 
 While it's perfectly possible to work in the root folder, it's probably a bit more manageable to work in a more familiar location, such as our Desktop. So, let's tell our Terminal to **switch locations to one of the sub-folders of our present location (the root folder)**. We do this using the **change directory, or `cd`, command**, followed by the address of the folder/directory we wish to change over to:
 
@@ -148,7 +148,7 @@ Congrats! Your journey into working with Unix-based operating systems has offici
 clear
 ```
 
-### (Real Quick) Hello, C!
+### [**(Real Quick) Hello, C!**](https://youtu.be/3t0XcS6cE2I)
 
 Like I said earlier, we'll get into actual C programming in the latter half of the semester, but I do want to give your a quick intro on how to run a C file from your Terminal. I'll go into what each of the following commands does next week, but for now, simply:
 
@@ -196,7 +196,7 @@ Notice the doing this created an Unix executable in our Desktop as well. More on
 
 <sub>**Figure 9**: Very Java. Or, rather, Java is very C.</sub>
 
-#### Troubleshooting (Mostly For Ubuntu)
+#### [**Troubleshooting (Mostly For Ubuntu)**](https://youtu.be/msqs1Kh47tY)
 
 If you got an error when trying to compile your C file, please be sure to run the following two commands in your Terminal. Please be aware that each command may take a while to execute, so don't worry if it takes a long time or if you see a bunch of text appear on your terminal:
 
@@ -215,7 +215,7 @@ gcc --version
 
 If you see the following data, or something similar, in your terminal you're all set to try and run your C file again:
 
-```sh
+```
 gcc (Ubuntu 9.3.0-10ubuntu2) 9.3.0
 Copyright (C) 2019 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO

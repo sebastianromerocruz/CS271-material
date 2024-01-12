@@ -51,7 +51,7 @@ I like reading novels, listening and playing music, and watching slice-of-life a
 
 CS 271 _Fundamentals of Unix and C Programming_ is a two-credit course and requires **two instructional hours per week**. These will be administered in the following way:
 
-- **Weekly Lecture Videos**: These will be your main source of the course material, and will be released on a weekly basis through [**YouTube**]() (keep in mind that the videos themselves will be unlisted, so you will need the actual links in order to access them).
+- **Weekly Lecture Videos**: These will be your main source of the course material, and will be released on a weekly basis through [**YouTube**](https://www.youtube.com/@Prof.RomeroCruz-ks2mx/playlists) (keep in mind that the videos themselves will be unlisted, so you will need the actual links in order to access them).
 
 - **Lectures Notes**: In addition to these videos, I will also post text versions of the material on this repository. You will, thus, get access to all of the code that I write throughout.
 
@@ -60,7 +60,7 @@ You can find both of these below (scheduling is subject to small changes through
 #### Unix
 
 1. **Week 1**: _Setting Up, Unix Intro, `gcc` Intro, Hello Worlding_
-    - [**Videos**]()
+    - [**Videos**](https://www.youtube.com/playlist?list=PLtSG79UwxwmH9_pBgqlTrJ3fz_-fAWjfk)
     - [**Notes**](lectures/week-1/)
 2. **Week 2**: _`gcc` Usage, Unix/C History, Intro to Shell Scripting_
     <!-- - [**Videos**]()

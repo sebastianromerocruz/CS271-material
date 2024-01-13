@@ -2,7 +2,7 @@
 
 <h1 align=center>Setting Up, Unix Intro, <code>gcc</code> Intro, Hello Worlding</h1>
 
-<p align=center><strong><em>Song of the day</strong>: <a href="https://youtu.be/f_G43LhHEos"><strong><u>Burgundy Red</u></strong></a> by 落日飛車 (SUNSET ROLLERCOASTER) (2016)</em></p>
+<p align=center><strong><em>Song of the day</strong>: <a href="https://youtu.be/5BIElTtN6Fs?si=nMNkn_WgxKLPYTcs"><strong><u>Disorder</u></strong></a> by Joy Division (1979)</em></p>
 
 ### Sections
 
@@ -162,7 +162,7 @@ touch hello_world.c
 
 #### Copy-and-paste The C "Hello, World" Equivalent
 
-Some of what you'll see in the following code snippet will look very familiar for you from Java, but C has a _lot_ of intricacies that I could spend weeks talking about (and I literally will). For now, go ahead and copy-and-paste the following into your `hello_world.c` file:
+Some of what you'll see in the following code snippet will look very familiar for you from Java, but C has a _lot_ of intricacies that I could spend weeks talking about (and I literally will). For now, go ahead and copy-and-paste the following into your [**`hello_world.c` file**](code/hello_world.c):
 
 ```c
 #include <stdio.h>

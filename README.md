@@ -64,7 +64,7 @@ You can find both of these below (scheduling is subject to small changes through
     - [**Notes**](lectures/week-1/)
 2. **Week 2**: _`gcc` Usage, Unix/C History, Intro to Shell Scripting_
     <!-- - [**Videos**]()
-    - [**Notes**]() -->
+    - [**Notes**](lectures/week-2/) -->
 3. **Week 3**: _Basic Commands, Manual Pages, Standard I/O, Command Piping_
     <!-- - [**Videos**]()
     - [**Notes**]() -->

@@ -63,7 +63,7 @@ You can find both of these below (scheduling is subject to small changes through
     - [**Videos**](https://www.youtube.com/playlist?list=PLtSG79UwxwmH9_pBgqlTrJ3fz_-fAWjfk)
     - [**Notes**](lectures/week-1/)
 2. **Week 2**: _`gcc` Usage, Unix/C History, Intro to Shell Scripting_
-    <!-- - [**Videos**]()
+    <!-- - [**Videos**](https://www.youtube.com/playlist?list=PLtSG79UwxwmErZiEIzuI8TvQHBaT5xCX-)
     - [**Notes**](lectures/week-2/) -->
 3. **Week 3**: _Basic Commands, Manual Pages, Standard I/O, Command Piping_
     <!-- - [**Videos**]()

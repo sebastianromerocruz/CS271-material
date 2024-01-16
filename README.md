@@ -67,7 +67,7 @@ You can find both of these below (scheduling is subject to small changes through
     - [**Notes**](lectures/week-2/) -->
 3. **Week 3**: _Basic Commands, Manual Pages, Standard I/O, Command Piping_
     <!-- - [**Videos**]()
-    - [**Notes**]() -->
+    - [**Notes**](lectures/week-3/) -->
 4. **Week 4**: _File Systems, File Names, Directories, Permissions, Inodes_
     <!-- - [**Videos**]()
     - [**Notes**]() -->

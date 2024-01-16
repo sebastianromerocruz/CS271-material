@@ -9,7 +9,7 @@
 3. [**Hello, You!**](#problem-3-hello-you) (_3.3 pts_)
 4. [**It Just Comes Automatic**](#problem-4-it-just-comes-automatic-33-pts) (_3.3 pts_)
 
-- [**How To Submit**]()
+- [**How To Submit**](#how-to-submit)
 
 ### Problem 1: _You Shall...Pass, Actually (0 pts)_
 
@@ -83,3 +83,17 @@ This problem will also be graded based both on the contents of `hello_me.c` and 
 ### How To Submit
 
 Once you are all done, please **zip your `hw1` folder** (on [**MacOS**](https://youtu.be/62tw3wZvQxs?si=_LjMuhre4-EHXQNv&t=24) and [**Ubuntu**](https://youtu.be/WzuF43YVfzY?si=6RIuosW7zj4UtMoS)) and submit that zip file in the **`Assignments`** section in [**Classes**](https://classes.pace.edu/d2l/home/398827). Failure to submit the homework as a zip file may result in a 2-point deduction.
+
+Your final folder structure, thus, should look something like this:
+
+```
+hw1
+├── code
+│   ├── HelloMe
+│   ├── hello_me.c
+│   └── run_me.sh
+└── screenshots
+    ├── problem-2.png
+    ├── problem-3.png
+    └── problem-4.png
+```

@@ -1,0 +1,3 @@
+#!/bin/sh
+# You can write comments this way...
+echo Hello World        # ...and this way as well

@@ -66,8 +66,8 @@ You can find both of these below (scheduling is subject to small changes through
     - [**Videos**](https://www.youtube.com/playlist?list=PLtSG79UwxwmErZiEIzuI8TvQHBaT5xCX-)
     - [**Notes**](lectures/week-2/)
 3. **Week 3**: _Basic Commands, Manual Pages, Standard I/O, Command Piping_
-    <!-- - [**Videos**](https://www.youtube.com/playlist?list=PLtSG79UwxwmHytyEgelNx5C95oEt7pbOS)
-    - [**Notes**](lectures/week-3/) -->
+    - [**Videos**](https://www.youtube.com/playlist?list=PLtSG79UwxwmHytyEgelNx5C95oEt7pbOS)
+    - [**Notes**](lectures/week-3/)
 4. **Week 4**: _File Systems, File Names, Directories, Permissions, Inodes_
     <!-- - [**Videos**]()
     - [**Notes**](lectures/week-4/) -->

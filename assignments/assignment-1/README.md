@@ -2,6 +2,8 @@
 
 <h1 align=center>Intro to Unix, C, and Shell Scripting</h1>
 
+<h4 align=center><em>due Sunday, February 18th 2024, at 11:59pm</em><h4>
+
 ### Problems
 
 1. [**You Shall Not Pass**](#problem-1-you-shallpass-actually) (_0 pts_)

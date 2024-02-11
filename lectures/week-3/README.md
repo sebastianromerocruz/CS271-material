@@ -2,7 +2,7 @@
 
 <h1 align=center>Basic Commands, Manual Pages, Standard I/O, Command Piping</h1>
 
-<p align=center><strong><em>Song of the day</strong>: <a href="https://youtu.be/f_G43LhHEos"><strong><u>Burgundy Red</u></strong></a> by 落日飛車 (SUNSET ROLLERCOASTER) (2016)</em></p>
+<p align=center><strong><em>Song of the day</strong>: <a href="https://youtu.be/u9Di0D1DQps?si=Gmuom5tqc9ckMbZO"><strong><u>Pump! (feat. chelmico) [live]</u></strong></a> by PASOCOM MUSIC CLUB (2023)</em></p>
 
 ### Sections
 

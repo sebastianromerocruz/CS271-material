@@ -69,8 +69,8 @@ You can find both of these below (scheduling is subject to small changes through
     - [**Videos**](https://www.youtube.com/playlist?list=PLtSG79UwxwmHytyEgelNx5C95oEt7pbOS)
     - [**Notes**](lectures/week-3/)
 4. **Week 4**: _File Systems, File Names, Directories, Permissions, Inodes_
-    <!-- - [**Videos**]()
-    - [**Notes**](lectures/week-4/) -->
+    - [**Videos**](https://www.youtube.com/playlist?list=PLtSG79UwxwmHcKU7VpSZFc9XP6jK-4Cjr)
+    - [**Notes**](lectures/week-4/)
 5. **Week 5**: _Shells, Environments, Shell Programming I_
     <!-- - [**Videos**]()
     - [**Notes**]() -->

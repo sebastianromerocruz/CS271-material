@@ -75,8 +75,8 @@ You can find both of these below (scheduling is subject to small changes through
     - [**Videos**](https://www.youtube.com/playlist?list=PLtSG79UwxwmFR7ZIu2IDEBJT4e8xy7VLA)
     - [**Notes**](lectures/week-5/)
 6. **Week 6**: _Filters, `grep`, `egrep`, Regular Expressions, `sed`, Shell Programming II_
-    <!-- - [**Videos**]()
-    - [**Notes**]() -->
+    - [**Videos**](https://www.youtube.com/playlist?list=PLtSG79UwxwmHcFglEJE-fwKqyLG7MQQ7z)
+    - [**Notes**](lectures/week-6/)
 7. **Week 7**: _Midterm 1_
 
 #### C Language

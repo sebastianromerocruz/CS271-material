@@ -81,7 +81,7 @@ You can find both of these below (scheduling is subject to small changes through
 
 #### C Language
 8. **Week 8**: _Introduction to C, `char`, Strings, `int`, `float`, Standard Library_
-    - [**Videos**]()
+    - [**Videos**](https://www.youtube.com/playlist?list=PLtSG79UwxwmGxA2JzVNdgtxLxGHarHE7B)
     - [**Notes**](lectures/week-8/)
 9. **Week 9**: _Operators, Assignments, Loops, Conditionals_
     <!-- - [**Videos**]()

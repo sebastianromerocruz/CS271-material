@@ -84,8 +84,8 @@ You can find both of these below (scheduling is subject to small changes through
     - [**Videos**](https://www.youtube.com/playlist?list=PLtSG79UwxwmGxA2JzVNdgtxLxGHarHE7B)
     - [**Notes**](lectures/week-8/)
 9. **Week 9**: _Operators, Assignments, Loops, Conditionals_
-    <!-- - [**Videos**]()
-    - [**Notes**]() -->
+    <!-- - [**Videos**]() -->
+    - [**Notes**](lectures/week-9/)
 10. **Week 10**: _Functions, Parameter Passing, Pointer_
     <!-- - [**Videos**]()
     - [**Notes**]() -->

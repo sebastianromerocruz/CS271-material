@@ -185,7 +185,7 @@ Logical operators work pretty much exactly the same way they do in Java:
 
 |Precedence|Operator|Symbol|Example|
 |-|-|-|-|
-|1|Logical NOT|`!`|`!true` evaluates to `false`. Logical NOT actually has an even higher precedence than arithmetic operators, and has the same precedence as bitwise NOT|
+|1|Logical NOT|`!`|`!true` evaluates to `false`. Logical NOT actually has an even higher precedence than arithmetic operators (_except_ for unary `++`/`--`/`+`/`-`), and has the same precedence as bitwise NOT|
 |2|Logical AND|`&&`|`true && false` evaluates to `false`|
 |3|Logical OR|`\|\|`|`true \|\| false` evaluates to `true`|
 

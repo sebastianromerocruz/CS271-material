@@ -87,7 +87,7 @@ You can find both of these below (scheduling is subject to small changes through
     - [**Videos**](https://youtube.com/playlist?list=PLtSG79UwxwmHNOenTrOlTPynZy0_jZjL6&si=iShb0Uh__tmZfzwZ)
     - [**Notes**](lectures/week-9/)
 11. **Week 11**: _Functions, Parameter Passing, Pointers_
-    <!-- - [**Videos**]() -->
+    - [**Videos**](https://youtube.com/playlist?list=PLtSG79UwxwmHRr75pdktSLvheqtoIw8fu&si=lsXCXlMW1vcKrLZA)
     - [**Notes**](lectures/week-11/)
 12. **Week 12**: _`struct`, `enum`, Arrays, Array/Pointer Duality_
     <!-- - [**Videos**]()
@@ -95,7 +95,7 @@ You can find both of these below (scheduling is subject to small changes through
 13. **Week 13**: _Dynamic Storage, `malloc`, `calloc`, `free`, Memory Leaks_
     <!-- - [**Videos**]()
     - [**Notes**]() -->
-14. **Week 16**: _External References, Linkage Editing, Static Variables_
+14. **Week 15**: _External References, Linkage Editing, Static Variables_
     <!-- - [**Videos**]()
     - [**Notes**]() -->
 15. **Week 16**: _Final Exam_

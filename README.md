@@ -86,19 +86,19 @@ You can find both of these below (scheduling is subject to small changes through
 9. **Week 9**: _Operators, Assignments, Loops, Conditionals_
     - [**Videos**](https://youtube.com/playlist?list=PLtSG79UwxwmHNOenTrOlTPynZy0_jZjL6&si=iShb0Uh__tmZfzwZ)
     - [**Notes**](lectures/week-9/)
-10. **Week 10**: _Functions, Parameter Passing, Pointers_
+11. **Week 11**: _Functions, Parameter Passing, Pointers_
     <!-- - [**Videos**]() -->
     - [**Notes**](lectures/week-11/)
-11. **Week 11**: _`struct`, `enum`, Arrays, Array/Pointer Duality_
+12. **Week 12**: _`struct`, `enum`, Arrays, Array/Pointer Duality_
     <!-- - [**Videos**]()
     - [**Notes**]() -->
-12. **Week 12**: _Dynamic Storage, `malloc`, `calloc`, `free`, Memory Leaks_
+13. **Week 13**: _Dynamic Storage, `malloc`, `calloc`, `free`, Memory Leaks_
     <!-- - [**Videos**]()
     - [**Notes**]() -->
-13. **Week 13**: _External References, Linkage Editing, Static Variables_
+14. **Week 16**: _External References, Linkage Editing, Static Variables_
     <!-- - [**Videos**]()
     - [**Notes**]() -->
-14. **Week 14**: _Final Exam_
+15. **Week 16**: _Final Exam_
 
 While this material will mostly be managed here on GitHub, it will also be appropriately linked on [**Classes**](), where your grades will also be posted. Speaking of...
 

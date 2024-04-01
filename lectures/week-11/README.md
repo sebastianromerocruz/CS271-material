@@ -11,7 +11,7 @@
 1. [**Functions In C**](#part-1-functions-in-c)
 2. [**Pointers**](#part-2-pointers)
 3. [**Passing By Reference**](#part-3-passing-by-reference)
-4. [**Passing Arrays By Reference**](#part-4-passing-arrays-by-reference)
+<!-- 4. [**Passing Arrays By Reference**](#part-4-passing-arrays-by-reference) -->
 
 ---
 
@@ -211,9 +211,9 @@ In C, `char` arrays can be represented as both `char[]` and `char*` due to the w
     Memory representation:
 
     ```
-    +-----+-----+-----+-----+-----+
-    name | 'J' | 'o' | 'h' | 'n' | '\0' |
-    +-----+-----+-----+-----+-----+
+    +-----+-----+-----+-----+-----+------+
+     name | 'J' | 'o' | 'h' | 'n' | '\0' |
+    +-----+-----+-----+-----+-----+------+
     ```
 
 2. `char*` representation:
@@ -228,9 +228,9 @@ In C, `char` arrays can be represented as both `char[]` and `char*` due to the w
     Memory representation:
 
     ```
-    +-----+-----+-----+-----+-----+
-    ptr  | 'J' | 'o' | 'h' | 'n' | '\0' |
-    +-----+-----+-----+-----+-----+
+    +-----+-----+-----+-----+-----+------+
+     ptr  | 'J' | 'o' | 'h' | 'n' | '\0' |
+    +-----+-----+-----+-----+-----+------+
     ```
 
     In both representations, the underlying memory layout remains the same. The main difference lies in how the array is accessed or manipulated - using array index notation for `char[]` and pointer arithmetic for `char*`.
@@ -330,9 +330,9 @@ In the above example, the `changeFloat` function multiplies the value at the add
 
 Passing variables by reference in C using pointers is commonly used in situations where you want to modify the original value of a variable within a function.
 
-<br>
+<!-- <br> -->
 
-### Part 4: _Passing Arrays By Reference_
+<!-- ### Part 4: _Passing Arrays By Reference_
 
 When passing arrays by reference in C, you are essentially passing a pointer to the memory location where the array is stored, rather than passing the actual contents of the array. This means that any modifications made to the array within a function will directly affect the original array outside of the function.
 
@@ -408,4 +408,4 @@ To pass an array by reference in C, you need to use pointers. Here's an explanat
 
     In this example, we declare a function `modifyIntArray` that takes a pointer to an `int` array as a parameter. Inside the function, we loop through the array and multiply each element by 2. When we call the function in `main`, we pass the `intArray` by reference using `intArray`. Any modifications made in the function will directly affect the original `intArray` outside of the function.
 
-Passing arrays by reference in C involves passing a pointer to the array to the function, allowing the function to directly modify the original array. This can be useful for avoiding unnecessary copying of large arrays and for making changes to arrays within functions.
+Passing arrays by reference in C involves passing a pointer to the array to the function, allowing the function to directly modify the original array. This can be useful for avoiding unnecessary copying of large arrays and for making changes to arrays within functions. -->

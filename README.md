@@ -1,6 +1,6 @@
 <h1 align=center>CS 271: <em>Fundamentals of Unix and C Programming</em></h1>
 
-<h2 align=center>Pace University Seidenberg School of Computer Science & Informaton Systems</h2>
+<h2 align=center>Pace University Seidenberg School of Computer Science & Information Systems</h2>
 
 <h3 align=center>Spring 2024</h3>
 
@@ -86,9 +86,9 @@ You can find both of these below (scheduling is subject to small changes through
 9. **Week 9**: _Operators, Assignments, Loops, Conditionals_
     - [**Videos**](https://youtube.com/playlist?list=PLtSG79UwxwmHNOenTrOlTPynZy0_jZjL6&si=iShb0Uh__tmZfzwZ)
     - [**Notes**](lectures/week-9/)
-10. **Week 10**: _Functions, Parameter Passing, Pointer_
-    <!-- - [**Videos**]()
-    - [**Notes**]() -->
+10. **Week 10**: _Functions, Parameter Passing, Pointers_
+    <!-- - [**Videos**]() -->
+    - [**Notes**](lectures/week-11/)
 11. **Week 11**: _`struct`, `enum`, Arrays, Array/Pointer Duality_
     <!-- - [**Videos**]()
     - [**Notes**]() -->

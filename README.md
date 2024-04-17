@@ -93,8 +93,8 @@ You can find both of these below (scheduling is subject to small changes through
     - [**Videos**](https://www.youtube.com/playlist?list=PLtSG79UwxwmFSw0varFXmuQi2aTw58NyY)
     - [**Notes**](/lectures/week-12/)
 13. **Week 13**: _Dynamic Storage, `malloc`, `calloc`, `free`, Memory Leaks_
-    <!-- - [**Videos**]()
-    - [**Notes**]() -->
+    - [**Videos**]()
+    - [**Notes**](/lectures/week-13/)
 14. **Week 15**: _External References, Linkage Editing, Static Variables_
     <!-- - [**Videos**]()
     - [**Notes**]() -->

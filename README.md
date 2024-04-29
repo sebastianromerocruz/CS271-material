@@ -6,21 +6,24 @@
 
 ### Sections
 
-1. [**Course Description**](#course-description)
-2. [**Instructor**](#instructor)
-3. [**Course Material and Schedule**](#course-material-and-schedule)
-    - [**Unix**](#unix)
-    - [**C Language**](#c-language)
-4. [**Final Grade Breakdown**](#final-grade-breakdown)
-    - [**Homework Assignments**](#homework-assignments)
-    - [**Midterm and Final Exams**](#midterm-and-final-exam)
-    - [**ChatGPT and Other Online AI Tools**](#chatgpt-and-other-online-ai-tools)
-5. [**University Resources and Policies**](#university-resources-and-policies)
-    - [**Procedure for Students Who Wish to Obtain Reasonable Accommodations for a Course**](#procedure-for-students-who-wish-to-obtain-reasonable-accommodations-for-a-course)
-    - [**Technological Resources**](#technological-resources)
-    - [**Appropriate Use Policy for Information Technology**](#appropriate-use-policy-for-information-technology)
-    - [**Sex-Based Misconduct Policy and Procedure**](#sex-based-misconduct-policy-and-procedure)
-    - [**Self-Care**](#self-care)
+- [**Sections**](#sections)
+- [**Course Description**](#course-description)
+- [**Learning Outcomes**](#learning-outcomes)
+- [**Instructor**](#instructor)
+- [**Course Material and Schedule**](#course-material-and-schedule)
+  - [**Unix**](#unix)
+  - [**C Language**](#c-language)
+- [**Final Grade Breakdown**](#final-grade-breakdown)
+  - [**Homework Assignments**](#homework-assignments)
+  - [**Midterm and Final Exam**](#midterm-and-final-exam)
+  - [**ChatGPT and Other Online AI Tools**](#chatgpt-and-other-online-ai-tools)
+- [**Academic Integrity Code**](#academic-integrity-code)
+- [**University Resources and Policies**](#university-resources-and-policies)
+  - [**Procedure for Students Who Wish to Obtain Reasonable Accommodations for a Course**](#procedure-for-students-who-wish-to-obtain-reasonable-accommodations-for-a-course)
+  - [**Technological Resources**](#technological-resources)
+  - [**Appropriate Use Policy for Information Technology**](#appropriate-use-policy-for-information-technology)
+  - [**Sex-Based Misconduct Policy and Procedure**](#sex-based-misconduct-policy-and-procedure)
+  - [**Self-Care**](#self-care)
 
 ### Course Description
 
@@ -80,27 +83,28 @@ You can find both of these below (scheduling is subject to small changes through
 7. **Week 7**: _Midterm 1_
 
 #### C Language
-8. **Week 8**: _Introduction to C, `char`, Strings, `int`, `float`, Standard Library_
+
+1. **Week 8**: _Introduction to C, `char`, Strings, `int`, `float`, Standard Library_
     - [**Videos**](https://www.youtube.com/playlist?list=PLtSG79UwxwmGxA2JzVNdgtxLxGHarHE7B)
     - [**Notes**](lectures/week-8/)
-9. **Week 9**: _Operators, Assignments, Loops, Conditionals_
+2. **Week 9**: _Operators, Assignments, Loops, Conditionals_
     - [**Videos**](https://youtube.com/playlist?list=PLtSG79UwxwmHNOenTrOlTPynZy0_jZjL6&si=iShb0Uh__tmZfzwZ)
     - [**Notes**](lectures/week-9/)
-11. **Week 11**: _Functions, Parameter Passing, Pointers_
+3. **Week 11**: _Functions, Parameter Passing, Pointers_
     - [**Videos**](https://youtube.com/playlist?list=PLtSG79UwxwmHRr75pdktSLvheqtoIw8fu&si=lsXCXlMW1vcKrLZA)
     - [**Notes**](lectures/week-11/)
-12. **Week 12**: _`struct`, `enum`, Arrays, Array/Pointer Duality_
+4. **Week 12**: _`struct`, `enum`, Arrays, Array/Pointer Duality_
     - [**Videos**](https://www.youtube.com/playlist?list=PLtSG79UwxwmFSw0varFXmuQi2aTw58NyY)
     - [**Notes**](/lectures/week-12/)
-13. **Week 13**: _Dynamic Storage, `malloc`, `calloc`, `free`, Memory Leaks_
+5. **Week 13**: _Dynamic Storage, `malloc`, `calloc`, `free`, Memory Leaks_
     - [**Videos**](https://www.youtube.com/playlist?list=PLtSG79UwxwmEOBVtJq_KRoRpyhnSUzGu9)
     - [**Notes**](/lectures/week-13/)
-14. **Week 15**: _External References, Linkage Editing, Static Variables_
-    <!-- - [**Videos**]()
-    - [**Notes**]() -->
-15. **Week 16**: _Final Exam_
+6. **Week 15**: _External References, Linkage Editing, Static Variables_
+    - [**Videos**]()
+    - [**Notes**](/lectures/week-14/)
+7. **Week 16**: _Final Exam_
 
-While this material will mostly be managed here on GitHub, it will also be appropriately linked on [**Classes**](), where your grades will also be posted. Speaking of...
+While this material will mostly be managed here on GitHub, it will also be appropriately linked on [**Classes**](https://classes.pace.edu/d2l/home/398827), where your grades will also be posted. Speaking of...
 
 ### Final Grade Breakdown
 

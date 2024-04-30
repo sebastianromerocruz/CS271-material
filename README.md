@@ -100,7 +100,7 @@ You can find both of these below (scheduling is subject to small changes through
     - [**Videos**](https://www.youtube.com/playlist?list=PLtSG79UwxwmEOBVtJq_KRoRpyhnSUzGu9)
     - [**Notes**](/lectures/week-13/)
 6. **Week 15**: _External References, Linkage Editing, Static Variables_
-    - [**Videos**]()
+    - [**Videos**](https://www.youtube.com/playlist?list=PLtSG79UwxwmFT_N8LO5TWgJSJsIrGDaJ9)
     - [**Notes**](/lectures/week-14/)
 7. **Week 16**: _Final Exam_
 
